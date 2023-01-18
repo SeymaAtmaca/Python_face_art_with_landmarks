@@ -29,7 +29,9 @@ After the mask and filter are obtained, the filter is applied on the image. This
 <br> 
 <b> Outputs : </b><br><br>
 
-![j.png](https://github.com/SeymaAtmaca/Python_face_art_with_landmarks/blob/main/images/j.png) ![o.png](https://github.com/SeymaAtmaca/Python_face_art_with_landmarks/blob/main/images/o.png)<br><br>
+![j.png](https://github.com/SeymaAtmaca/Python_face_art_with_landmarks/blob/main/images/j.png) ![o.png](https://github.com/SeymaAtmaca/Python_face_art_with_landmarks/blob/main/images/o.png)
+
+<br><br>
 
 
 
